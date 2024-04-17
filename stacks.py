@@ -13,6 +13,7 @@ print(my_stack[1])
 #Adding items to a stack
 my_stack=['banana','mango','orange']
 new_item=my_stack.append('kiwi')
+new_item=my_stack.append('dragon fruit')
 print(my_stack)
 
 #Removing an item from a stack
